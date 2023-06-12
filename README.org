@@ -1,0 +1,9 @@
+* apply-argv
+
+Simple argv parsing.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/pve1/apply-argv.git |
+| commit  | 37cb0c6                                    |
+| systems | apply-argv                                 |
+|---------+--------------------------------------------|
