@@ -4,6 +4,6 @@ Simple argv parsing.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/pve1/apply-argv.git |
-| commit  | 37cb0c6                                    |
+| commit  | c5e92e5                                    |
 | systems | apply-argv                                 |
 |---------+--------------------------------------------|
